@@ -1,0 +1,1001 @@
+train_no,status,location,eta
+22161,10 min delay,Salem Jn,09:50 AM
+12770,30 min delay,Trichy Jn,07:01 PM
+22915,10 min delay,Tanjore,02:19 PM
+12498,15 min delay,Tanjore,10:01 AM
+22093,On Time,Villupuram,02:54 PM
+22781,15 min delay,Trichy Jn,03:53 PM
+22691,15 min delay,Tanjore,05:54 AM
+22780,30 min delay,Salem Jn,04:15 PM
+12734,15 min delay,Kumbakonam,07:44 PM
+22735,1 hour delay,Coimbatore Jn,12:20 PM
+12940,30 min delay,Trichy Jn,09:05 PM
+22511,On Time,Tanjore,10:01 AM
+12242,30 min delay,Madurai Jn,09:36 AM
+12121,10 min delay,Madurai Jn,10:33 PM
+22054,On Time,Vellore,10:05 PM
+12973,15 min delay,Coimbatore Jn,12:34 PM
+22411,15 min delay,Tirunelveli,05:04 AM
+12509,30 min delay,Tanjore,07:26 AM
+12184,30 min delay,Dindigul,06:47 AM
+22242,On Time,Tiruppur,09:24 AM
+12707,10 min delay,Trichy Jn,07:07 PM
+12004,On Time,Kumbakonam,08:16 AM
+22570,On Time,Dindigul,08:08 PM
+22570,1 hour delay,Tiruppur,04:06 PM
+22009,30 min delay,Villupuram,08:45 PM
+22876,On Time,Salem Jn,08:09 AM
+22395,10 min delay,Coimbatore Jn,06:38 PM
+12068,On Time,Tanjore,03:04 PM
+22378,15 min delay,Tirunelveli,11:38 AM
+12829,15 min delay,Tirunelveli,08:16 PM
+12529,On Time,Erode Jn,05:16 AM
+22662,10 min delay,Tirunelveli,08:29 AM
+12568,On Time,Tanjore,09:41 AM
+22137,10 min delay,Chennai Egmore,10:31 AM
+12448,30 min delay,Tiruppur,06:48 AM
+22335,On Time,Villupuram,12:57 PM
+12050,15 min delay,Dindigul,11:46 AM
+12438,1 hour delay,Vellore,12:12 PM
+12733,1 hour delay,Kumbakonam,02:30 PM
+12443,15 min delay,Tanjore,12:03 PM
+12550,30 min delay,Kumbakonam,09:20 PM
+12560,10 min delay,Vellore,01:56 PM
+12319,10 min delay,Coimbatore Jn,08:49 PM
+12800,15 min delay,Villupuram,07:41 AM
+12014,On Time,Salem Jn,07:11 PM
+12525,1 hour delay,Vellore,11:36 AM
+22235,On Time,Dindigul,11:19 AM
+22157,15 min delay,Tanjore,12:36 PM
+12558,On Time,Tirunelveli,08:24 AM
+12441,On Time,Tirunelveli,05:33 AM
+12723,30 min delay,Vellore,08:57 AM
+22578,15 min delay,Madurai Jn,11:48 AM
+12155,15 min delay,Chennai Egmore,05:41 AM
+12120,15 min delay,Villupuram,01:37 PM
+12104,15 min delay,Kumbakonam,05:59 PM
+22531,30 min delay,Kumbakonam,08:32 PM
+12283,30 min delay,Tanjore,08:12 AM
+22817,30 min delay,Tiruppur,10:02 PM
+22154,1 hour delay,Tiruppur,09:42 AM
+12797,1 hour delay,Trichy Jn,12:15 PM
+22247,15 min delay,Tirunelveli,08:42 AM
+12746,30 min delay,Tanjore,06:53 AM
+12740,On Time,Villupuram,06:26 AM
+12189,30 min delay,Erode Jn,08:04 AM
+22021,On Time,Erode Jn,07:20 PM
+12762,On Time,Trichy Jn,07:28 PM
+12357,On Time,Madurai Jn,08:17 PM
+12463,30 min delay,Trichy Jn,03:33 PM
+12426,15 min delay,Tanjore,10:52 PM
+12424,On Time,Trichy Jn,05:09 AM
+22623,On Time,Erode Jn,10:14 AM
+12592,15 min delay,Erode Jn,08:35 PM
+22143,On Time,Dindigul,11:21 AM
+22472,1 hour delay,Tiruppur,05:50 AM
+22299,1 hour delay,Tanjore,08:09 PM
+22115,30 min delay,Erode Jn,10:50 PM
+12217,On Time,Vellore,09:18 PM
+22578,1 hour delay,Tanjore,10:14 AM
+12684,10 min delay,Coimbatore Jn,01:57 PM
+12628,On Time,Tanjore,08:25 AM
+12796,On Time,Salem Jn,12:17 PM
+12620,On Time,Erode Jn,10:51 AM
+12110,On Time,Trichy Jn,07:17 AM
+12987,10 min delay,Trichy Jn,02:52 PM
+22558,15 min delay,Erode Jn,11:43 AM
+12741,30 min delay,Vellore,05:01 AM
+22676,30 min delay,Dindigul,10:50 PM
+12136,15 min delay,Tiruppur,08:50 PM
+12447,15 min delay,Trichy Jn,05:18 AM
+12331,15 min delay,Dindigul,07:45 PM
+12957,10 min delay,Vellore,05:55 PM
+22854,10 min delay,Vellore,06:47 PM
+22726,10 min delay,Salem Jn,03:35 PM
+22293,10 min delay,Salem Jn,09:32 PM
+22320,On Time,Chennai Egmore,05:53 PM
+22662,On Time,Kumbakonam,02:22 PM
+22943,30 min delay,Trichy Jn,02:26 PM
+22606,15 min delay,Vellore,10:50 PM
+22351,15 min delay,Erode Jn,07:11 AM
+12263,1 hour delay,Vellore,02:50 PM
+22296,1 hour delay,Villupuram,11:50 AM
+22486,30 min delay,Coimbatore Jn,08:02 AM
+12521,10 min delay,Vellore,07:41 PM
+12938,15 min delay,Tirunelveli,11:02 AM
+12631,10 min delay,Vellore,09:34 AM
+12314,15 min delay,Madurai Jn,02:54 PM
+22571,On Time,Erode Jn,01:04 PM
+12075,10 min delay,Tiruppur,06:33 AM
+12021,15 min delay,Kumbakonam,08:47 AM
+22429,15 min delay,Tanjore,10:25 PM
+22820,1 hour delay,Tiruppur,01:17 PM
+12417,10 min delay,Tanjore,07:19 PM
+22520,10 min delay,Vellore,10:05 AM
+12563,30 min delay,Tanjore,10:30 PM
+22710,15 min delay,Villupuram,06:36 PM
+22659,30 min delay,Coimbatore Jn,12:12 PM
+12276,15 min delay,Vellore,02:58 PM
+22484,On Time,Coimbatore Jn,07:26 AM
+12868,1 hour delay,Coimbatore Jn,08:42 AM
+22773,On Time,Madurai Jn,03:23 PM
+12345,30 min delay,Vellore,02:10 PM
+22427,1 hour delay,Tanjore,12:45 PM
+12717,10 min delay,Kumbakonam,11:19 AM
+22766,10 min delay,Kumbakonam,02:09 PM
+12052,1 hour delay,Coimbatore Jn,09:55 PM
+22882,1 hour delay,Chennai Egmore,10:42 PM
+12106,On Time,Tiruppur,12:25 PM
+12841,10 min delay,Tirunelveli,06:06 PM
+22401,15 min delay,Trichy Jn,12:13 PM
+12802,1 hour delay,Kumbakonam,05:05 PM
+12482,15 min delay,Kumbakonam,12:37 PM
+12945,On Time,Tirunelveli,09:44 AM
+12051,30 min delay,Trichy Jn,12:13 PM
+22031,1 hour delay,Trichy Jn,09:59 AM
+22873,On Time,Dindigul,07:24 AM
+22288,On Time,Erode Jn,01:53 PM
+22110,1 hour delay,Tirunelveli,10:13 PM
+12031,1 hour delay,Tiruppur,04:11 PM
+22463,10 min delay,Dindigul,07:35 PM
+22353,1 hour delay,Tanjore,09:55 PM
+12112,10 min delay,Dindigul,12:30 PM
+12869,30 min delay,Villupuram,08:35 PM
+12240,15 min delay,Chennai Egmore,12:21 PM
+22653,30 min delay,Tanjore,01:07 PM
+22061,1 hour delay,Erode Jn,12:47 PM
+22106,30 min delay,Chennai Egmore,07:21 PM
+12730,1 hour delay,Tirunelveli,02:06 PM
+12617,15 min delay,Tiruppur,06:18 AM
+12793,On Time,Salem Jn,06:51 AM
+22321,On Time,Erode Jn,09:10 PM
+12105,30 min delay,Villupuram,08:40 PM
+12024,30 min delay,Vellore,08:41 PM
+12311,10 min delay,Vellore,06:04 AM
+22258,15 min delay,Kumbakonam,10:51 AM
+22050,On Time,Trichy Jn,06:22 AM
+22282,10 min delay,Tirunelveli,09:51 AM
+22458,30 min delay,Tirunelveli,07:36 PM
+22571,30 min delay,Tanjore,07:59 AM
+12992,On Time,Vellore,08:18 AM
+12129,15 min delay,Chennai Egmore,03:32 PM
+22157,15 min delay,Villupuram,12:33 PM
+12262,1 hour delay,Coimbatore Jn,09:14 PM
+22150,10 min delay,Salem Jn,12:07 PM
+22917,1 hour delay,Salem Jn,11:23 AM
+22355,On Time,Erode Jn,01:18 PM
+22710,15 min delay,Vellore,10:37 AM
+22980,10 min delay,Tirunelveli,10:30 AM
+22198,1 hour delay,Tiruppur,01:54 PM
+12134,1 hour delay,Salem Jn,05:45 AM
+12119,On Time,Villupuram,09:45 AM
+22700,30 min delay,Tirunelveli,06:09 AM
+22084,1 hour delay,Tanjore,03:23 PM
+22793,10 min delay,Vellore,03:14 PM
+22449,10 min delay,Salem Jn,05:58 AM
+22836,On Time,Villupuram,06:41 AM
+22417,30 min delay,Tiruppur,10:38 PM
+12053,On Time,Salem Jn,02:11 PM
+22247,10 min delay,Chennai Egmore,10:49 AM
+22962,1 hour delay,Tanjore,08:15 AM
+22454,30 min delay,Chennai Egmore,10:30 PM
+22840,1 hour delay,Trichy Jn,03:44 PM
+12873,10 min delay,Dindigul,12:55 PM
+22169,On Time,Tiruppur,10:07 AM
+12483,15 min delay,Salem Jn,05:05 PM
+12155,30 min delay,Tirunelveli,04:20 PM
+12574,On Time,Salem Jn,09:53 AM
+12134,1 hour delay,Coimbatore Jn,10:24 PM
+12400,On Time,Villupuram,04:45 PM
+12517,10 min delay,Madurai Jn,09:18 PM
+12685,30 min delay,Tiruppur,10:11 AM
+22612,10 min delay,Salem Jn,09:30 PM
+22108,15 min delay,Coimbatore Jn,04:51 PM
+22951,30 min delay,Coimbatore Jn,07:30 PM
+12808,30 min delay,Chennai Egmore,07:52 PM
+12242,15 min delay,Tanjore,04:24 PM
+12002,15 min delay,Kumbakonam,06:02 AM
+22787,10 min delay,Kumbakonam,02:44 PM
+12859,15 min delay,Chennai Egmore,10:05 PM
+12437,10 min delay,Dindigul,08:22 AM
+12309,On Time,Tiruppur,10:26 PM
+12984,15 min delay,Erode Jn,08:41 AM
+12877,On Time,Vellore,06:44 AM
+12508,On Time,Vellore,11:43 AM
+12477,15 min delay,Trichy Jn,09:29 AM
+22621,15 min delay,Tiruppur,05:22 AM
+12718,10 min delay,Tirunelveli,05:15 PM
+12986,10 min delay,Tanjore,07:45 AM
+12829,30 min delay,Kumbakonam,09:44 PM
+12331,10 min delay,Coimbatore Jn,05:15 PM
+22928,30 min delay,Tiruppur,09:39 PM
+12646,10 min delay,Erode Jn,06:21 PM
+22288,10 min delay,Chennai Egmore,11:02 AM
+12992,On Time,Chennai Egmore,09:44 AM
+22674,10 min delay,Kumbakonam,01:39 PM
+22698,10 min delay,Coimbatore Jn,09:45 PM
+22495,1 hour delay,Coimbatore Jn,10:45 AM
+12805,1 hour delay,Coimbatore Jn,08:44 PM
+12689,15 min delay,Dindigul,04:51 PM
+22100,15 min delay,Vellore,08:01 PM
+22824,15 min delay,Kumbakonam,05:00 AM
+22864,30 min delay,Tirunelveli,08:48 AM
+12070,15 min delay,Coimbatore Jn,09:50 PM
+22216,On Time,Madurai Jn,07:17 PM
+12159,15 min delay,Erode Jn,11:17 AM
+12821,15 min delay,Villupuram,07:22 PM
+22260,15 min delay,Tanjore,09:29 AM
+22828,10 min delay,Madurai Jn,09:05 PM
+12767,15 min delay,Coimbatore Jn,04:17 PM
+22502,1 hour delay,Salem Jn,02:32 PM
+12853,1 hour delay,Trichy Jn,08:32 PM
+22012,On Time,Salem Jn,12:21 PM
+12158,10 min delay,Tirunelveli,01:21 PM
+22658,1 hour delay,Salem Jn,10:31 AM
+22665,10 min delay,Trichy Jn,04:11 PM
+22645,10 min delay,Coimbatore Jn,06:43 AM
+12817,10 min delay,Dindigul,05:11 PM
+12265,10 min delay,Trichy Jn,08:23 AM
+22679,On Time,Salem Jn,05:35 PM
+12284,30 min delay,Coimbatore Jn,11:01 AM
+12548,30 min delay,Tirunelveli,10:07 AM
+22026,1 hour delay,Villupuram,03:58 PM
+12198,1 hour delay,Trichy Jn,10:18 PM
+12372,10 min delay,Tiruppur,09:17 AM
+22296,On Time,Tirunelveli,08:07 PM
+12255,15 min delay,Erode Jn,07:57 AM
+22795,1 hour delay,Coimbatore Jn,10:06 PM
+12953,30 min delay,Salem Jn,04:39 PM
+12818,15 min delay,Tiruppur,07:39 PM
+22010,On Time,Trichy Jn,11:54 AM
+22324,15 min delay,Kumbakonam,08:26 PM
+12124,10 min delay,Tirunelveli,02:22 PM
+22662,1 hour delay,Villupuram,10:24 AM
+22779,On Time,Madurai Jn,10:02 AM
+22761,15 min delay,Tanjore,10:32 AM
+12835,1 hour delay,Dindigul,09:45 PM
+12864,1 hour delay,Tiruppur,02:22 PM
+22300,1 hour delay,Kumbakonam,04:28 PM
+22947,10 min delay,Coimbatore Jn,05:31 PM
+22906,1 hour delay,Dindigul,02:21 PM
+12509,30 min delay,Madurai Jn,09:28 AM
+22628,10 min delay,Chennai Egmore,08:09 AM
+22930,1 hour delay,Tanjore,08:44 AM
+22158,10 min delay,Tirunelveli,08:47 AM
+22628,15 min delay,Tanjore,06:46 PM
+12940,1 hour delay,Tanjore,04:33 PM
+12656,On Time,Erode Jn,09:22 PM
+22204,30 min delay,Dindigul,05:50 PM
+12717,30 min delay,Coimbatore Jn,09:40 PM
+22655,1 hour delay,Tirunelveli,10:17 AM
+12304,On Time,Villupuram,09:42 AM
+12800,15 min delay,Tiruppur,05:33 AM
+22095,30 min delay,Coimbatore Jn,09:06 PM
+12736,15 min delay,Chennai Egmore,08:32 AM
+12666,1 hour delay,Coimbatore Jn,01:33 PM
+12098,On Time,Tanjore,10:30 PM
+12260,1 hour delay,Vellore,02:52 PM
+22777,30 min delay,Tanjore,08:02 PM
+22780,1 hour delay,Coimbatore Jn,01:48 PM
+22190,30 min delay,Erode Jn,09:47 PM
+22732,On Time,Tirunelveli,06:43 AM
+22361,1 hour delay,Salem Jn,07:03 PM
+12438,15 min delay,Chennai Egmore,06:50 PM
+12157,15 min delay,Coimbatore Jn,05:30 AM
+22782,10 min delay,Tirunelveli,01:47 PM
+22434,15 min delay,Kumbakonam,01:29 PM
+22551,15 min delay,Chennai Egmore,06:43 AM
+12832,10 min delay,Vellore,08:31 AM
+12162,15 min delay,Erode Jn,06:24 AM
+22164,30 min delay,Erode Jn,06:43 PM
+12347,30 min delay,Vellore,08:39 PM
+22023,1 hour delay,Erode Jn,06:09 PM
+12848,30 min delay,Coimbatore Jn,07:56 PM
+12282,15 min delay,Trichy Jn,04:16 PM
+12513,30 min delay,Trichy Jn,09:02 PM
+12350,15 min delay,Dindigul,08:33 AM
+12451,1 hour delay,Kumbakonam,06:20 AM
+12770,On Time,Salem Jn,09:11 PM
+12001,On Time,Tanjore,12:21 PM
+22551,10 min delay,Salem Jn,07:49 PM
+12841,On Time,Vellore,07:00 PM
+22238,30 min delay,Kumbakonam,02:24 PM
+12477,10 min delay,Villupuram,09:00 PM
+12374,10 min delay,Villupuram,09:33 AM
+12357,1 hour delay,Tiruppur,06:22 AM
+22296,30 min delay,Salem Jn,08:28 AM
+12117,10 min delay,Tanjore,07:14 PM
+12891,30 min delay,Madurai Jn,11:17 AM
+22182,On Time,Kumbakonam,02:24 PM
+22823,1 hour delay,Erode Jn,09:24 PM
+12384,1 hour delay,Tanjore,10:28 PM
+12400,1 hour delay,Erode Jn,07:31 PM
+12283,On Time,Salem Jn,06:34 AM
+12477,On Time,Madurai Jn,04:41 PM
+22343,On Time,Coimbatore Jn,02:13 PM
+22926,30 min delay,Kumbakonam,11:48 AM
+12571,15 min delay,Tanjore,07:02 PM
+22947,On Time,Tanjore,06:37 AM
+22770,30 min delay,Madurai Jn,01:35 PM
+22765,30 min delay,Madurai Jn,09:08 AM
+12354,On Time,Tiruppur,10:46 AM
+22075,1 hour delay,Tiruppur,02:58 PM
+12382,10 min delay,Salem Jn,02:57 PM
+22108,10 min delay,Trichy Jn,02:42 PM
+12635,On Time,Villupuram,08:53 PM
+22438,30 min delay,Madurai Jn,03:36 PM
+22752,1 hour delay,Trichy Jn,10:37 AM
+22154,On Time,Madurai Jn,11:36 AM
+22149,30 min delay,Tanjore,12:56 PM
+12350,10 min delay,Dindigul,06:19 PM
+22326,15 min delay,Erode Jn,05:34 AM
+12634,30 min delay,Kumbakonam,08:30 PM
+12740,15 min delay,Erode Jn,10:27 PM
+22212,10 min delay,Trichy Jn,06:16 PM
+22492,30 min delay,Tiruppur,12:58 PM
+22953,1 hour delay,Villupuram,11:44 AM
+22956,15 min delay,Coimbatore Jn,09:04 PM
+22249,10 min delay,Trichy Jn,02:44 PM
+12783,10 min delay,Chennai Egmore,01:28 PM
+12046,1 hour delay,Tirunelveli,09:46 PM
+22034,15 min delay,Erode Jn,12:14 PM
+12825,1 hour delay,Villupuram,07:12 AM
+22582,15 min delay,Trichy Jn,06:31 AM
+22047,10 min delay,Dindigul,02:52 PM
+22002,30 min delay,Tiruppur,06:19 AM
+22665,On Time,Erode Jn,08:16 AM
+12924,On Time,Tirunelveli,03:52 PM
+12737,15 min delay,Tirunelveli,04:58 PM
+12747,10 min delay,Tirunelveli,05:20 AM
+12441,10 min delay,Tirunelveli,09:11 PM
+22683,10 min delay,Tirunelveli,01:32 PM
+22026,1 hour delay,Madurai Jn,07:08 AM
+22299,30 min delay,Coimbatore Jn,08:14 PM
+22685,On Time,Dindigul,07:50 PM
+22724,15 min delay,Dindigul,05:34 PM
+22550,1 hour delay,Vellore,06:26 AM
+12413,On Time,Dindigul,05:08 AM
+22425,1 hour delay,Coimbatore Jn,04:02 PM
+12296,On Time,Salem Jn,10:14 PM
+12844,30 min delay,Tiruppur,09:18 PM
+22557,10 min delay,Erode Jn,07:08 PM
+22351,10 min delay,Dindigul,08:04 PM
+12424,15 min delay,Kumbakonam,08:44 AM
+12902,1 hour delay,Dindigul,03:45 PM
+22533,1 hour delay,Tiruppur,05:21 PM
+12606,30 min delay,Trichy Jn,04:11 PM
+22249,30 min delay,Villupuram,11:38 AM
+12404,15 min delay,Chennai Egmore,07:48 PM
+12938,1 hour delay,Coimbatore Jn,11:31 AM
+12972,30 min delay,Trichy Jn,05:19 AM
+12858,10 min delay,Tanjore,04:33 PM
+22254,30 min delay,Madurai Jn,05:43 AM
+12608,30 min delay,Dindigul,11:44 AM
+22800,10 min delay,Tiruppur,07:20 AM
+22233,On Time,Madurai Jn,10:57 AM
+12118,30 min delay,Villupuram,10:59 AM
+22665,On Time,Vellore,06:24 AM
+12325,15 min delay,Tanjore,07:11 PM
+12487,1 hour delay,Vellore,10:25 AM
+12598,On Time,Tirunelveli,01:41 PM
+12744,On Time,Villupuram,12:10 PM
+22044,1 hour delay,Chennai Egmore,10:27 PM
+22582,15 min delay,Trichy Jn,07:51 PM
+22032,On Time,Chennai Egmore,10:10 AM
+22861,1 hour delay,Tirunelveli,11:42 AM
+22532,1 hour delay,Tanjore,06:10 AM
+12663,On Time,Tanjore,10:57 AM
+12667,10 min delay,Tirunelveli,03:04 PM
+22577,30 min delay,Tiruppur,05:08 AM
+22295,30 min delay,Madurai Jn,01:14 PM
+22821,1 hour delay,Tanjore,12:39 PM
+12990,30 min delay,Coimbatore Jn,12:49 PM
+12906,10 min delay,Villupuram,06:20 PM
+12044,30 min delay,Vellore,02:24 PM
+22681,On Time,Erode Jn,08:22 PM
+22948,On Time,Chennai Egmore,03:48 PM
+22896,10 min delay,Madurai Jn,05:28 AM
+12573,On Time,Salem Jn,11:23 AM
+22885,1 hour delay,Tanjore,10:58 AM
+22444,10 min delay,Madurai Jn,04:04 PM
+12863,1 hour delay,Salem Jn,10:21 AM
+12221,10 min delay,Salem Jn,02:27 PM
+12796,30 min delay,Dindigul,08:39 PM
+12972,15 min delay,Tirunelveli,09:00 AM
+12412,10 min delay,Dindigul,05:50 AM
+12196,15 min delay,Coimbatore Jn,06:12 AM
+22401,On Time,Salem Jn,10:10 PM
+12401,15 min delay,Kumbakonam,11:16 AM
+12828,On Time,Erode Jn,09:43 AM
+12929,10 min delay,Villupuram,05:45 AM
+12791,15 min delay,Vellore,02:41 PM
+12180,30 min delay,Villupuram,08:19 AM
+12088,30 min delay,Kumbakonam,04:27 PM
+12364,15 min delay,Trichy Jn,09:16 AM
+22950,1 hour delay,Tanjore,08:32 PM
+22937,On Time,Villupuram,08:17 PM
+12165,30 min delay,Tanjore,09:11 AM
+22744,10 min delay,Trichy Jn,11:51 AM
+12654,1 hour delay,Tiruppur,11:51 AM
+12023,10 min delay,Kumbakonam,11:47 AM
+12036,On Time,Madurai Jn,03:04 PM
+22224,On Time,Kumbakonam,12:10 PM
+12384,15 min delay,Dindigul,01:03 PM
+22107,1 hour delay,Trichy Jn,10:01 AM
+12066,1 hour delay,Kumbakonam,06:05 PM
+12102,10 min delay,Erode Jn,07:04 PM
+22232,1 hour delay,Vellore,09:52 PM
+12722,30 min delay,Tiruppur,05:52 AM
+12712,30 min delay,Trichy Jn,08:38 PM
+12526,15 min delay,Salem Jn,09:52 AM
+12928,On Time,Tirunelveli,01:20 PM
+22495,10 min delay,Salem Jn,05:43 AM
+22046,10 min delay,Kumbakonam,06:04 PM
+22848,On Time,Chennai Egmore,10:50 PM
+22467,1 hour delay,Villupuram,03:31 PM
+12651,10 min delay,Vellore,12:14 PM
+22589,1 hour delay,Vellore,07:00 PM
+22760,1 hour delay,Coimbatore Jn,06:28 PM
+12791,15 min delay,Villupuram,01:26 PM
+22573,On Time,Dindigul,08:55 AM
+12181,10 min delay,Tanjore,10:06 PM
+22512,On Time,Madurai Jn,04:42 PM
+12611,1 hour delay,Madurai Jn,06:07 PM
+22771,On Time,Trichy Jn,03:39 PM
+12706,30 min delay,Coimbatore Jn,10:37 PM
+12494,1 hour delay,Trichy Jn,10:33 PM
+22625,10 min delay,Chennai Egmore,09:33 AM
+12943,10 min delay,Vellore,02:42 PM
+22307,On Time,Madurai Jn,01:22 PM
+22702,30 min delay,Vellore,11:10 AM
+12073,15 min delay,Coimbatore Jn,06:09 AM
+12474,On Time,Tiruppur,06:13 AM
+12144,15 min delay,Coimbatore Jn,06:37 AM
+22008,15 min delay,Salem Jn,09:07 PM
+22609,30 min delay,Madurai Jn,11:02 AM
+22391,10 min delay,Erode Jn,01:39 PM
+12219,15 min delay,Kumbakonam,05:04 PM
+12697,30 min delay,Tanjore,02:05 PM
+12724,30 min delay,Tiruppur,07:12 PM
+12612,1 hour delay,Coimbatore Jn,09:06 PM
+12436,On Time,Erode Jn,09:15 AM
+22830,10 min delay,Madurai Jn,07:34 AM
+12395,1 hour delay,Trichy Jn,09:30 AM
+22126,1 hour delay,Coimbatore Jn,01:04 PM
+22009,On Time,Chennai Egmore,09:45 PM
+22095,10 min delay,Dindigul,02:38 PM
+22809,10 min delay,Coimbatore Jn,12:48 PM
+12609,On Time,Villupuram,10:49 PM
+22838,1 hour delay,Tanjore,08:56 PM
+12132,1 hour delay,Tanjore,05:12 AM
+12595,10 min delay,Dindigul,03:48 PM
+22221,15 min delay,Kumbakonam,06:50 PM
+22517,30 min delay,Kumbakonam,12:49 PM
+12288,30 min delay,Vellore,05:32 PM
+22350,On Time,Tiruppur,09:03 AM
+12066,10 min delay,Vellore,06:22 AM
+22415,On Time,Tiruppur,03:02 PM
+22908,10 min delay,Erode Jn,04:36 PM
+22732,30 min delay,Kumbakonam,10:38 PM
+22495,30 min delay,Tiruppur,11:05 AM
+22707,10 min delay,Villupuram,07:27 AM
+12164,On Time,Madurai Jn,06:58 PM
+22546,30 min delay,Kumbakonam,09:22 AM
+12275,30 min delay,Chennai Egmore,05:30 PM
+22935,30 min delay,Tirunelveli,10:02 AM
+22266,1 hour delay,Tiruppur,03:22 PM
+12136,30 min delay,Tirunelveli,09:36 PM
+22495,1 hour delay,Tiruppur,11:55 AM
+12137,10 min delay,Trichy Jn,12:54 PM
+22110,10 min delay,Chennai Egmore,01:01 PM
+12918,10 min delay,Villupuram,06:07 AM
+22229,1 hour delay,Erode Jn,03:22 PM
+22863,On Time,Trichy Jn,12:24 PM
+22145,15 min delay,Coimbatore Jn,07:54 AM
+22841,15 min delay,Dindigul,10:11 AM
+22297,On Time,Dindigul,10:16 PM
+22333,15 min delay,Vellore,08:02 PM
+22900,30 min delay,Vellore,04:25 PM
+12951,15 min delay,Coimbatore Jn,06:59 AM
+12017,10 min delay,Tiruppur,01:19 PM
+22362,30 min delay,Chennai Egmore,01:04 PM
+12889,30 min delay,Madurai Jn,06:53 PM
+22480,10 min delay,Vellore,12:40 PM
+12837,15 min delay,Dindigul,05:15 PM
+12566,1 hour delay,Tirunelveli,03:18 PM
+22933,15 min delay,Kumbakonam,05:15 AM
+22562,1 hour delay,Kumbakonam,10:57 AM
+22696,1 hour delay,Erode Jn,06:16 PM
+22601,1 hour delay,Kumbakonam,04:04 PM
+22820,30 min delay,Salem Jn,12:59 PM
+22801,15 min delay,Salem Jn,03:01 PM
+22799,10 min delay,Salem Jn,09:58 PM
+12561,15 min delay,Salem Jn,07:13 AM
+22863,1 hour delay,Kumbakonam,08:38 PM
+22009,On Time,Villupuram,07:42 AM
+12618,On Time,Chennai Egmore,08:23 AM
+22135,On Time,Dindigul,02:42 PM
+12402,On Time,Villupuram,12:27 PM
+12107,On Time,Salem Jn,09:04 PM
+22685,30 min delay,Tirunelveli,10:25 AM
+12211,30 min delay,Trichy Jn,06:16 PM
+12323,On Time,Tirunelveli,10:33 AM
+12659,On Time,Dindigul,08:19 AM
+12679,On Time,Trichy Jn,12:59 PM
+12884,15 min delay,Vellore,05:51 AM
+22148,1 hour delay,Tirunelveli,12:00 PM
+12195,15 min delay,Trichy Jn,01:24 PM
+22026,On Time,Erode Jn,10:24 PM
+22992,10 min delay,Tirunelveli,05:05 AM
+12214,10 min delay,Vellore,10:13 AM
+12941,30 min delay,Chennai Egmore,12:28 PM
+12713,On Time,Vellore,05:37 PM
+12869,30 min delay,Tirunelveli,08:52 AM
+22146,15 min delay,Trichy Jn,10:40 PM
+22005,1 hour delay,Vellore,04:13 PM
+12437,15 min delay,Kumbakonam,08:18 AM
+22569,On Time,Tiruppur,08:35 AM
+12750,On Time,Madurai Jn,07:01 AM
+12342,On Time,Kumbakonam,12:46 PM
+12743,30 min delay,Dindigul,05:28 PM
+22381,10 min delay,Madurai Jn,07:42 PM
+22007,30 min delay,Chennai Egmore,02:00 PM
+12547,10 min delay,Kumbakonam,06:17 PM
+12974,On Time,Erode Jn,07:01 AM
+12522,15 min delay,Salem Jn,02:57 PM
+22260,1 hour delay,Tiruppur,10:16 AM
+12289,30 min delay,Trichy Jn,09:15 AM
+22537,On Time,Trichy Jn,06:43 AM
+12628,15 min delay,Villupuram,09:56 PM
+12235,On Time,Villupuram,11:24 AM
+22431,10 min delay,Madurai Jn,06:47 PM
+12529,10 min delay,Tirunelveli,03:53 PM
+12553,15 min delay,Erode Jn,01:06 PM
+22258,15 min delay,Trichy Jn,12:58 PM
+22053,On Time,Kumbakonam,06:20 AM
+22653,30 min delay,Kumbakonam,06:34 AM
+22670,10 min delay,Tiruppur,01:50 PM
+12941,1 hour delay,Trichy Jn,06:02 PM
+12302,30 min delay,Vellore,01:58 PM
+22482,On Time,Kumbakonam,09:51 AM
+22934,15 min delay,Salem Jn,02:53 PM
+12797,On Time,Tanjore,08:26 PM
+12101,On Time,Tanjore,05:12 AM
+12549,30 min delay,Salem Jn,10:00 PM
+12367,15 min delay,Tanjore,06:02 AM
+12318,On Time,Kumbakonam,02:24 PM
+22404,On Time,Villupuram,10:58 PM
+22375,1 hour delay,Tirunelveli,02:51 PM
+12101,1 hour delay,Kumbakonam,10:18 AM
+12639,1 hour delay,Dindigul,03:36 PM
+22960,1 hour delay,Madurai Jn,06:39 AM
+22700,10 min delay,Erode Jn,05:08 AM
+12326,30 min delay,Salem Jn,12:27 PM
+12744,15 min delay,Madurai Jn,10:34 PM
+22467,10 min delay,Coimbatore Jn,03:03 PM
+22957,10 min delay,Chennai Egmore,09:15 PM
+22249,1 hour delay,Kumbakonam,08:54 AM
+12347,On Time,Chennai Egmore,04:18 PM
+22239,10 min delay,Villupuram,01:54 PM
+22156,1 hour delay,Tanjore,02:44 PM
+12310,15 min delay,Madurai Jn,07:52 AM
+12804,10 min delay,Kumbakonam,08:24 AM
+22583,30 min delay,Tiruppur,09:06 AM
+12873,1 hour delay,Tirunelveli,07:30 PM
+22347,On Time,Madurai Jn,01:27 PM
+12345,15 min delay,Salem Jn,10:31 PM
+22037,1 hour delay,Erode Jn,10:03 PM
+12733,On Time,Kumbakonam,07:39 AM
+12242,15 min delay,Erode Jn,07:37 AM
+12549,10 min delay,Kumbakonam,04:52 PM
+12299,15 min delay,Tanjore,12:23 PM
+22591,30 min delay,Tirunelveli,11:21 AM
+12613,On Time,Vellore,06:40 AM
+22104,10 min delay,Villupuram,05:43 PM
+12438,1 hour delay,Tirunelveli,08:52 PM
+22573,On Time,Tiruppur,05:19 AM
+22257,1 hour delay,Tiruppur,08:27 AM
+12567,30 min delay,Coimbatore Jn,07:27 PM
+22784,1 hour delay,Salem Jn,02:00 PM
+22221,15 min delay,Erode Jn,08:56 PM
+22832,15 min delay,Coimbatore Jn,11:21 AM
+22908,On Time,Erode Jn,08:24 PM
+12648,10 min delay,Dindigul,08:02 AM
+22602,On Time,Tirunelveli,05:23 AM
+22967,1 hour delay,Erode Jn,12:36 PM
+22384,30 min delay,Chennai Egmore,03:53 PM
+22028,1 hour delay,Kumbakonam,07:31 PM
+22303,On Time,Tirunelveli,04:32 PM
+12925,10 min delay,Vellore,05:26 AM
+22865,On Time,Kumbakonam,09:27 AM
+12092,10 min delay,Dindigul,10:28 AM
+22824,1 hour delay,Coimbatore Jn,07:14 PM
+12025,10 min delay,Chennai Egmore,04:07 PM
+12328,1 hour delay,Tiruppur,01:42 PM
+22335,On Time,Erode Jn,10:28 PM
+22051,15 min delay,Vellore,09:29 AM
+22579,15 min delay,Salem Jn,07:53 AM
+12403,1 hour delay,Madurai Jn,09:11 AM
+12712,On Time,Villupuram,10:15 PM
+12502,30 min delay,Chennai Egmore,06:55 AM
+12603,On Time,Salem Jn,08:23 AM
+12212,30 min delay,Madurai Jn,06:48 AM
+12063,On Time,Madurai Jn,11:58 AM
+12632,1 hour delay,Madurai Jn,05:23 AM
+22391,10 min delay,Erode Jn,03:54 PM
+22436,1 hour delay,Villupuram,04:55 PM
+12088,30 min delay,Vellore,07:03 PM
+12453,15 min delay,Erode Jn,08:30 PM
+12283,On Time,Tanjore,11:00 AM
+22664,10 min delay,Tanjore,10:50 AM
+12786,1 hour delay,Salem Jn,04:24 PM
+22343,10 min delay,Chennai Egmore,09:01 AM
+22503,1 hour delay,Vellore,10:54 AM
+22207,10 min delay,Dindigul,11:51 AM
+12091,1 hour delay,Vellore,12:01 PM
+12704,1 hour delay,Tirunelveli,08:17 PM
+12467,30 min delay,Salem Jn,10:16 PM
+22635,30 min delay,Villupuram,10:15 PM
+22444,15 min delay,Villupuram,06:04 PM
+12682,On Time,Kumbakonam,03:34 PM
+12096,30 min delay,Salem Jn,03:34 PM
+12106,30 min delay,Tanjore,09:13 PM
+12360,10 min delay,Coimbatore Jn,04:08 PM
+22893,30 min delay,Villupuram,05:56 AM
+12108,1 hour delay,Kumbakonam,02:00 PM
+22844,1 hour delay,Kumbakonam,10:51 AM
+22668,15 min delay,Erode Jn,08:06 AM
+12163,15 min delay,Erode Jn,11:47 AM
+12720,15 min delay,Madurai Jn,07:58 AM
+12835,10 min delay,Coimbatore Jn,05:26 AM
+22870,On Time,Madurai Jn,10:43 AM
+12943,On Time,Salem Jn,06:37 PM
+22067,On Time,Salem Jn,05:47 PM
+22133,1 hour delay,Trichy Jn,05:18 PM
+12785,30 min delay,Salem Jn,03:27 PM
+22493,10 min delay,Dindigul,09:11 PM
+22213,10 min delay,Salem Jn,02:58 PM
+12388,1 hour delay,Tiruppur,04:06 PM
+22874,1 hour delay,Tanjore,08:16 PM
+12661,On Time,Trichy Jn,01:41 PM
+12173,15 min delay,Salem Jn,07:56 AM
+22446,On Time,Tirunelveli,12:14 PM
+12549,1 hour delay,Madurai Jn,10:42 AM
+22858,15 min delay,Vellore,11:53 AM
+22554,30 min delay,Chennai Egmore,12:09 PM
+12897,30 min delay,Dindigul,05:14 AM
+12695,30 min delay,Coimbatore Jn,08:02 AM
+12994,1 hour delay,Dindigul,04:43 PM
+12985,15 min delay,Madurai Jn,05:39 PM
+22526,10 min delay,Tiruppur,07:04 AM
+22423,1 hour delay,Madurai Jn,10:17 PM
+12466,10 min delay,Chennai Egmore,02:53 PM
+22443,15 min delay,Salem Jn,07:22 PM
+22877,1 hour delay,Trichy Jn,06:54 AM
+12303,10 min delay,Erode Jn,01:24 PM
+22681,10 min delay,Madurai Jn,02:17 PM
+22801,On Time,Dindigul,06:23 PM
+12923,10 min delay,Erode Jn,01:53 PM
+22009,1 hour delay,Dindigul,09:54 AM
+12956,30 min delay,Dindigul,07:05 PM
+12906,10 min delay,Tiruppur,05:31 PM
+12925,1 hour delay,Salem Jn,11:36 AM
+22292,15 min delay,Tirunelveli,11:33 AM
+22493,10 min delay,Villupuram,01:07 PM
+22644,1 hour delay,Tanjore,03:50 PM
+22682,15 min delay,Tirunelveli,07:14 PM
+12484,15 min delay,Kumbakonam,08:23 PM
+12014,30 min delay,Coimbatore Jn,07:53 AM
+12215,1 hour delay,Tirunelveli,01:18 PM
+12274,1 hour delay,Tiruppur,07:21 AM
+12248,15 min delay,Tanjore,07:49 AM
+12357,On Time,Villupuram,10:04 PM
+12401,1 hour delay,Vellore,06:21 PM
+12928,On Time,Chennai Egmore,01:55 PM
+12335,30 min delay,Dindigul,06:39 AM
+12191,30 min delay,Coimbatore Jn,06:33 AM
+22002,15 min delay,Tirunelveli,11:00 PM
+12765,15 min delay,Kumbakonam,12:49 PM
+12384,10 min delay,Salem Jn,05:30 AM
+12760,30 min delay,Dindigul,07:02 AM
+12367,1 hour delay,Salem Jn,05:53 AM
+12004,30 min delay,Tirunelveli,02:47 PM
+12543,15 min delay,Coimbatore Jn,12:35 PM
+12934,On Time,Madurai Jn,08:40 PM
+12136,1 hour delay,Salem Jn,12:33 PM
+12521,15 min delay,Chennai Egmore,08:19 PM
+22929,10 min delay,Tanjore,04:22 PM
+22525,30 min delay,Kumbakonam,06:03 AM
+12200,On Time,Erode Jn,10:00 PM
+22881,10 min delay,Coimbatore Jn,06:19 AM
+12577,On Time,Erode Jn,04:05 PM
+12006,1 hour delay,Chennai Egmore,03:25 PM
+22831,30 min delay,Villupuram,08:45 AM
+22884,1 hour delay,Chennai Egmore,10:47 PM
+12272,15 min delay,Madurai Jn,06:56 AM
+22980,30 min delay,Chennai Egmore,05:42 AM
+22506,15 min delay,Salem Jn,06:48 PM
+12528,15 min delay,Villupuram,10:35 PM
+12558,10 min delay,Coimbatore Jn,05:36 AM
+22227,On Time,Salem Jn,08:10 PM
+22284,30 min delay,Villupuram,07:58 PM
+22993,10 min delay,Coimbatore Jn,05:32 AM
+22354,15 min delay,Erode Jn,06:27 PM
+22198,On Time,Tiruppur,10:56 PM
+22172,On Time,Trichy Jn,09:35 PM
+22321,30 min delay,Kumbakonam,07:01 AM
+12360,15 min delay,Trichy Jn,05:05 PM
+22705,10 min delay,Kumbakonam,01:40 PM
+22839,30 min delay,Tirunelveli,05:22 AM
+22168,1 hour delay,Dindigul,08:07 AM
+22770,10 min delay,Erode Jn,06:38 AM
+12356,10 min delay,Tanjore,05:33 AM
+12076,1 hour delay,Tirunelveli,07:18 PM
+22398,10 min delay,Tirunelveli,10:12 PM
+22999,15 min delay,Tanjore,05:44 PM
+12015,30 min delay,Salem Jn,03:18 PM
+22089,30 min delay,Trichy Jn,08:02 AM
+22010,30 min delay,Villupuram,02:35 PM
+22364,30 min delay,Kumbakonam,05:41 PM
+12687,1 hour delay,Salem Jn,09:34 PM
+22049,On Time,Salem Jn,02:32 PM
+12963,On Time,Villupuram,11:57 AM
+22913,30 min delay,Erode Jn,03:31 PM
+22656,On Time,Chennai Egmore,08:29 PM
+12354,1 hour delay,Madurai Jn,06:14 AM
+22488,On Time,Madurai Jn,01:01 PM
+22620,1 hour delay,Vellore,01:13 PM
+22646,On Time,Tirunelveli,02:21 PM
+12670,10 min delay,Erode Jn,03:41 PM
+22622,30 min delay,Vellore,08:51 PM
+22913,1 hour delay,Tirunelveli,05:53 AM
+12574,30 min delay,Chennai Egmore,05:04 AM
+22731,10 min delay,Madurai Jn,07:08 AM
+22679,30 min delay,Chennai Egmore,08:45 AM
+12190,10 min delay,Erode Jn,03:21 PM
+12463,On Time,Trichy Jn,10:08 PM
+12428,On Time,Tiruppur,09:46 PM
+22124,10 min delay,Vellore,10:36 PM
+12860,1 hour delay,Kumbakonam,12:06 PM
+12291,On Time,Madurai Jn,02:45 PM
+22180,1 hour delay,Trichy Jn,09:54 PM
+12220,On Time,Madurai Jn,08:26 AM
+12899,30 min delay,Dindigul,12:31 PM
+12421,1 hour delay,Tanjore,11:53 AM
+22564,On Time,Dindigul,08:18 PM
+22587,15 min delay,Kumbakonam,02:19 PM
+22845,On Time,Kumbakonam,08:37 PM
+22980,30 min delay,Trichy Jn,04:54 PM
+12512,On Time,Villupuram,08:05 AM
+22565,30 min delay,Chennai Egmore,08:45 PM
+12503,15 min delay,Dindigul,02:39 PM
+12702,30 min delay,Villupuram,08:15 PM
+12603,15 min delay,Erode Jn,04:56 PM
+22368,On Time,Vellore,02:15 PM
+12276,On Time,Dindigul,06:49 PM
+12301,10 min delay,Trichy Jn,02:17 PM
+22179,1 hour delay,Trichy Jn,07:41 AM
+22490,1 hour delay,Villupuram,09:40 PM
+12997,10 min delay,Erode Jn,04:37 PM
+22057,10 min delay,Kumbakonam,03:06 PM
+22854,On Time,Chennai Egmore,06:36 AM
+22420,15 min delay,Dindigul,06:23 PM
+12635,On Time,Kumbakonam,08:57 PM
+12415,10 min delay,Chennai Egmore,10:02 AM
+12084,1 hour delay,Madurai Jn,05:32 AM
+12270,1 hour delay,Salem Jn,05:08 AM
+12215,1 hour delay,Dindigul,10:44 AM
+22659,30 min delay,Salem Jn,12:23 PM
+12296,30 min delay,Villupuram,10:07 AM
+12552,10 min delay,Villupuram,04:53 PM
+22528,1 hour delay,Chennai Egmore,07:19 AM
+22998,10 min delay,Erode Jn,05:23 AM
+22350,15 min delay,Tirunelveli,04:55 PM
+12079,30 min delay,Tiruppur,09:21 PM
+12980,On Time,Chennai Egmore,09:02 AM
+22939,On Time,Salem Jn,01:07 PM
+12189,On Time,Vellore,05:15 PM
+12044,10 min delay,Kumbakonam,07:29 PM
+22699,10 min delay,Kumbakonam,06:30 AM
+22772,30 min delay,Kumbakonam,09:39 PM
+12826,On Time,Tirunelveli,05:23 PM
+12405,30 min delay,Trichy Jn,12:55 PM
+22143,15 min delay,Tanjore,05:56 PM
+12311,On Time,Tiruppur,10:28 AM
+12308,10 min delay,Salem Jn,11:57 AM
+22574,10 min delay,Vellore,07:11 PM
+22366,1 hour delay,Tanjore,12:11 PM
+12277,1 hour delay,Tanjore,07:34 AM
+12036,15 min delay,Vellore,04:49 PM
+12104,On Time,Villupuram,10:05 PM
+12613,On Time,Vellore,02:21 PM
+12542,15 min delay,Tiruppur,09:35 PM
+12413,1 hour delay,Madurai Jn,05:25 PM
+12394,On Time,Dindigul,07:12 PM
+22526,30 min delay,Vellore,12:23 PM
+12775,On Time,Kumbakonam,02:19 PM
+22749,15 min delay,Tirunelveli,05:49 PM
+12199,15 min delay,Tanjore,09:45 AM
+12950,On Time,Chennai Egmore,12:10 PM
+22301,10 min delay,Tiruppur,11:30 AM
+22646,15 min delay,Dindigul,06:29 PM
+22150,1 hour delay,Trichy Jn,10:35 AM
+12896,10 min delay,Madurai Jn,09:06 PM
+22131,10 min delay,Tanjore,12:55 PM
+22138,30 min delay,Chennai Egmore,08:18 AM
+12016,1 hour delay,Salem Jn,08:15 AM
+22690,On Time,Coimbatore Jn,08:29 PM
+12905,10 min delay,Dindigul,06:20 AM
+12042,1 hour delay,Tirunelveli,04:03 PM
+12028,10 min delay,Vellore,08:23 AM
+22285,10 min delay,Tiruppur,05:47 PM
+12101,1 hour delay,Madurai Jn,10:17 AM
+22795,On Time,Tirunelveli,07:26 AM
+22382,10 min delay,Villupuram,04:08 PM
+12431,15 min delay,Chennai Egmore,06:03 AM
+12084,On Time,Tiruppur,02:15 PM
+22348,15 min delay,Trichy Jn,11:48 AM
+12851,10 min delay,Trichy Jn,08:04 AM
+22497,1 hour delay,Erode Jn,05:52 PM
+12225,10 min delay,Chennai Egmore,10:51 PM
+12813,15 min delay,Chennai Egmore,12:28 PM
+12447,On Time,Vellore,07:17 AM
+22966,10 min delay,Tanjore,08:08 PM
+22303,30 min delay,Tanjore,08:59 PM
+22123,1 hour delay,Salem Jn,10:40 AM
+12698,10 min delay,Madurai Jn,08:16 AM
+22388,15 min delay,Tanjore,12:43 PM
+22594,15 min delay,Tirunelveli,06:24 PM
+22639,30 min delay,Salem Jn,07:59 PM
+22497,30 min delay,Tanjore,09:12 PM
+12739,1 hour delay,Villupuram,05:43 AM
+22520,10 min delay,Tirunelveli,09:25 PM
+22596,15 min delay,Chennai Egmore,05:54 PM
+12323,30 min delay,Vellore,05:10 AM
+12229,30 min delay,Dindigul,11:39 AM
+22162,30 min delay,Tanjore,10:07 PM
+22339,10 min delay,Kumbakonam,10:42 AM
+12060,15 min delay,Madurai Jn,04:41 PM
+12135,10 min delay,Coimbatore Jn,01:04 PM
+22580,30 min delay,Salem Jn,09:34 PM
+22175,10 min delay,Madurai Jn,06:34 PM
+12786,10 min delay,Trichy Jn,11:09 AM
+22866,On Time,Trichy Jn,05:53 AM
+12652,15 min delay,Salem Jn,12:29 PM
+22064,On Time,Trichy Jn,10:01 AM
+12596,30 min delay,Tiruppur,06:50 PM
+22150,10 min delay,Vellore,06:01 PM
+12055,10 min delay,Dindigul,08:47 PM
+22125,30 min delay,Erode Jn,11:04 AM
+22517,30 min delay,Salem Jn,08:11 PM
+12365,10 min delay,Tirunelveli,12:28 PM
+22802,1 hour delay,Kumbakonam,06:10 AM
+22392,On Time,Vellore,11:38 AM
+22363,30 min delay,Villupuram,08:14 AM
+12155,15 min delay,Madurai Jn,03:26 PM
+22878,15 min delay,Vellore,10:17 AM
+12620,1 hour delay,Kumbakonam,12:39 PM
+12408,15 min delay,Villupuram,07:57 AM
+12709,10 min delay,Tirunelveli,07:51 AM
+12770,10 min delay,Vellore,06:04 PM
+22778,On Time,Tanjore,11:08 AM
+22843,On Time,Dindigul,09:52 PM
+12648,10 min delay,Tirunelveli,07:48 PM
+22243,15 min delay,Vellore,05:05 PM
+22790,30 min delay,Trichy Jn,06:01 AM
+22111,15 min delay,Kumbakonam,08:05 PM
+22724,10 min delay,Erode Jn,06:27 PM
+12583,On Time,Tirunelveli,09:58 AM
+12732,On Time,Coimbatore Jn,09:10 PM
+12387,1 hour delay,Coimbatore Jn,05:13 AM
+22727,10 min delay,Trichy Jn,02:21 PM
+12337,1 hour delay,Chennai Egmore,05:08 AM
+22469,1 hour delay,Tanjore,03:55 PM
+22506,1 hour delay,Tiruppur,10:55 AM
+12645,10 min delay,Erode Jn,04:43 PM
+12487,On Time,Salem Jn,01:38 PM
+22254,30 min delay,Tanjore,04:40 PM
+12851,15 min delay,Villupuram,12:54 PM
+22705,30 min delay,Erode Jn,01:17 PM
+22966,10 min delay,Kumbakonam,09:05 AM
+22111,10 min delay,Trichy Jn,03:06 PM
+12184,On Time,Kumbakonam,08:27 PM
+22354,1 hour delay,Erode Jn,09:43 PM
+12502,1 hour delay,Tirunelveli,08:37 AM
+12344,10 min delay,Madurai Jn,08:10 PM
+12620,On Time,Dindigul,08:41 AM
+22637,On Time,Tirunelveli,10:15 PM
+12005,1 hour delay,Chennai Egmore,05:30 AM
+12224,1 hour delay,Kumbakonam,04:48 PM
+22905,1 hour delay,Kumbakonam,07:27 PM
+22878,10 min delay,Dindigul,08:49 AM
+22214,15 min delay,Dindigul,09:48 PM
+12020,30 min delay,Tiruppur,07:11 PM
+22443,30 min delay,Madurai Jn,10:59 PM
+22070,On Time,Tanjore,06:19 PM
+22588,30 min delay,Villupuram,03:07 PM
+12768,On Time,Trichy Jn,07:04 AM
+22627,10 min delay,Erode Jn,08:24 AM
+12115,1 hour delay,Madurai Jn,06:14 AM
+12609,On Time,Erode Jn,10:05 AM
+22773,On Time,Tanjore,01:01 PM
+22077,15 min delay,Tanjore,04:22 PM
+12514,On Time,Salem Jn,07:24 AM
+22297,1 hour delay,Dindigul,09:05 AM
+12411,15 min delay,Chennai Egmore,06:23 PM
+22277,10 min delay,Erode Jn,10:15 AM
+22866,1 hour delay,Vellore,04:29 PM
+12233,On Time,Tanjore,07:44 PM
+12693,10 min delay,Madurai Jn,12:27 PM
+12915,30 min delay,Vellore,02:02 PM
+12256,10 min delay,Vellore,06:14 PM
+12284,On Time,Erode Jn,08:33 PM
+12788,10 min delay,Chennai Egmore,04:20 PM
+22333,30 min delay,Madurai Jn,08:20 PM
+12859,10 min delay,Tanjore,11:10 AM
+22992,10 min delay,Madurai Jn,05:29 AM
+12107,15 min delay,Salem Jn,09:15 PM
+22155,On Time,Kumbakonam,06:34 PM
+22956,1 hour delay,Dindigul,03:52 PM
+12451,10 min delay,Kumbakonam,07:49 PM
+12399,30 min delay,Salem Jn,08:19 AM
+22754,1 hour delay,Tiruppur,08:30 AM
+22107,On Time,Villupuram,02:57 PM
+22506,15 min delay,Trichy Jn,05:13 AM
+22831,On Time,Tanjore,07:13 AM
+22121,1 hour delay,Tanjore,06:22 AM
+12842,15 min delay,Kumbakonam,06:33 AM
+22814,1 hour delay,Villupuram,09:35 AM
+22862,30 min delay,Erode Jn,03:28 PM
+12030,1 hour delay,Madurai Jn,05:26 AM
+22052,10 min delay,Coimbatore Jn,10:46 PM
+22559,On Time,Tiruppur,08:58 AM
+22457,10 min delay,Tiruppur,11:04 AM
+12780,10 min delay,Tanjore,02:40 PM
+12781,15 min delay,Tanjore,07:02 AM
+22140,1 hour delay,Dindigul,08:50 AM
+12401,15 min delay,Trichy Jn,06:19 PM
+12596,1 hour delay,Trichy Jn,12:55 PM
+12219,1 hour delay,Dindigul,10:10 AM
+22911,On Time,Chennai Egmore,08:38 PM
+12341,30 min delay,Kumbakonam,09:36 PM
+22163,30 min delay,Erode Jn,10:47 PM
+12303,On Time,Chennai Egmore,10:15 PM
+12918,On Time,Tirunelveli,07:25 AM
+12657,1 hour delay,Trichy Jn,06:34 PM
+12575,30 min delay,Villupuram,02:42 PM
+22377,10 min delay,Salem Jn,01:00 PM
+12836,1 hour delay,Madurai Jn,09:23 AM
+12387,15 min delay,Coimbatore Jn,05:55 PM
+22317,30 min delay,Coimbatore Jn,07:16 AM
+22619,1 hour delay,Madurai Jn,12:01 PM
+12366,30 min delay,Coimbatore Jn,07:32 PM
+22986,1 hour delay,Erode Jn,05:35 AM
+22589,10 min delay,Tirunelveli,02:58 PM
+22631,1 hour delay,Salem Jn,06:15 PM
+22845,10 min delay,Chennai Egmore,03:06 PM
+12211,30 min delay,Trichy Jn,09:58 PM
+22465,15 min delay,Trichy Jn,04:25 PM
+22453,1 hour delay,Erode Jn,08:10 PM
+12526,15 min delay,Kumbakonam,11:28 AM
+12783,On Time,Vellore,12:17 PM
+22890,1 hour delay,Vellore,02:44 PM
+12470,15 min delay,Kumbakonam,09:20 PM
+12817,On Time,Dindigul,02:32 PM
+12214,On Time,Chennai Egmore,11:00 PM
+22797,15 min delay,Salem Jn,10:55 PM
+22512,15 min delay,Tanjore,06:10 AM
+22464,1 hour delay,Chennai Egmore,09:57 PM
+22608,10 min delay,Madurai Jn,09:56 PM
+12789,On Time,Salem Jn,08:57 AM
+12103,1 hour delay,Villupuram,01:59 PM
+12807,10 min delay,Dindigul,07:02 AM
+22416,1 hour delay,Salem Jn,01:10 PM
+22909,10 min delay,Tirunelveli,10:47 AM
+12493,On Time,Villupuram,03:04 PM
+12666,1 hour delay,Tanjore,09:40 PM
+22167,On Time,Trichy Jn,10:59 AM
+12521,1 hour delay,Villupuram,05:04 PM
+22726,15 min delay,Tanjore,06:07 PM
+12483,30 min delay,Tirunelveli,02:58 PM
+22911,30 min delay,Dindigul,08:16 AM

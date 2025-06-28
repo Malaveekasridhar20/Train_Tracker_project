@@ -1,0 +1,4 @@
+# Rename and replace with real values
+TELEGRAM_TOKEN = "7580922421:AAFln_2ZTJ069nrypW4By_Npzm-_lIeoVrQ"
+TELEGRAM_CHAT_ID = "1318601275"
+PUSHBULLET_API_KEY = "o.MWuNukRNc6mXNPikcNz4n1WLvTDh9l3U"
